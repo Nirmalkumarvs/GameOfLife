@@ -12,7 +12,7 @@ while True:
     print()
     board.printBoard()
     choice=input().strip().lower()
-    if choice=='q':
+    if choice=='r':
         break
 
 
